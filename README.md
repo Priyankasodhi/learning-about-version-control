@@ -1,5 +1,5 @@
-# learning-about-version-control
+# Learning about Version Control
 
-Author : Priyanka Sodhi
+Author: Priyanka Sodhi
 
-Solving merge conflicts is soooooo hard!
+Solving merge conflicts takes conscious effort, but I can do it!
